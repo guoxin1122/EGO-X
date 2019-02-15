@@ -1,0 +1,10 @@
+{'max_depth_dt': 5, 'min_samples_split_dt': 43, 'min_samples_leaf_dt': 5}
+{'max_depth_dt': 10, 'min_samples_split_dt': 52, 'min_samples_leaf_dt': 3}
+{'max_depth_dt': 6, 'min_samples_split_dt': 86, 'min_samples_leaf_dt': 4}
+{'max_depth_dt': 9, 'min_samples_split_dt': 96, 'min_samples_leaf_dt': 3}
+{'max_depth_dt': 7, 'min_samples_split_dt': 27, 'min_samples_leaf_dt': 5}
+{'max_depth_dt': 8, 'min_samples_split_dt': 28, 'min_samples_leaf_dt': 5}
+{'max_depth_dt': 8, 'min_samples_split_dt': 76, 'min_samples_leaf_dt': 4}
+{'max_depth_dt': 5, 'min_samples_split_dt': 96, 'min_samples_leaf_dt': 3}
+{'max_depth_dt': 7, 'min_samples_split_dt': 92, 'min_samples_leaf_dt': 5}
+{'max_depth_dt': 6, 'min_samples_split_dt': 64, 'min_samples_leaf_dt': 5}

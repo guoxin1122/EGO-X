@@ -1,0 +1,10 @@
+{'min_samples_leaf': 10, 'max_depth': 6, 'min_samples_split': 73, 'n_estimators': 28}
+{'min_samples_leaf': 19, 'max_depth': 4, 'min_samples_split': 13, 'n_estimators': 16}
+{'min_samples_leaf': 3, 'max_depth': 5, 'min_samples_split': 69, 'n_estimators': 26}
+{'C': -0.10830244969890046, 'gamma': -2.84859534118128}
+{'min_samples_leaf': 27, 'max_depth': 7, 'min_samples_split': 16, 'n_estimators': 27}
+{'min_samples_leaf': 34, 'max_depth': 6, 'min_samples_split': 81, 'n_estimators': 16}
+{'min_samples_leaf': 8, 'max_depth': 7, 'min_samples_split': 4, 'n_estimators': 7}
+{'min_samples_leaf': 58, 'max_depth': 8, 'min_samples_split': 56, 'n_estimators': 22}
+{'min_samples_leaf': 10, 'max_depth': 7, 'min_samples_split': 28, 'n_estimators': 14}
+{'min_samples_leaf': 19, 'max_depth': 7, 'min_samples_split': 69, 'n_estimators': 29}

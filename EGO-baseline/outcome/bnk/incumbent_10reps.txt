@@ -1,0 +1,10 @@
+{'min_samples_leaf': 9, 'min_samples_split': 15, 'max_depth': 8, 'n_estimators': 15}
+{'gamma': -10.388883928231321, 'C': 16.028313246535294}
+{'min_samples_leaf': 8, 'min_samples_split': 68, 'max_depth': 9, 'n_estimators': 11}
+{'min_samples_leaf': 9, 'min_samples_split': 61, 'max_depth': 8, 'n_estimators': 8}
+{'gamma': -10.079265829174046, 'C': 12.009963766825589}
+{'gamma': -9.746972007857398, 'C': 14.343202818464576}
+{'min_samples_leaf': 12, 'min_samples_split': 28, 'max_depth': 8, 'n_estimators': 26}
+{'gamma': -10.683555626769973, 'C': 12.913152994327785}
+{'gamma': -5.595076439598213, 'C': 3.950813119559129}
+{'min_samples_leaf': 9, 'min_samples_split': 27, 'max_depth': 9, 'n_estimators': 27}

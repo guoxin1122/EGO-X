@@ -1,0 +1,10 @@
+{'n_estimators_adab': 29}
+{'n_estimators_adab': 29}
+{'n_estimators_adab': 29}
+{'n_estimators_adab': 29}
+{'min_samples_split': 17, 'n_estimators': 25, 'min_samples_leaf': 5, 'max_depth': 7}
+{'min_samples_leaf_dt': 10, 'max_depth_dt': 3, 'min_samples_split_dt': 34}
+{'n_estimators_adab': 29}
+{'n_estimators_adab': 29}
+{'n_estimators_adab': 29}
+{'min_samples_leaf_dt': 11, 'max_depth_dt': 3, 'min_samples_split_dt': 14}
