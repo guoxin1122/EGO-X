@@ -1,0 +1,7 @@
+,EGO-ws,EGO-ss,EGO-impute,SMAC,EGO-baseline,Sklearn
+EGO-ws,,0.00,0.07,0.99,0.83,0.00
+EGO-ss,0.00,,0.01,0.06,0.04,0.00
+EGO-impute,0.07,0.01,,0.21,0.16,0.03
+SMAC,0.99,0.06,0.21,,0.62,0.00
+EGO-baseline,0.83,0.04,0.16,0.62,,0.00
+Sklearn,0.00,0.00,0.03,0.00,0.00,

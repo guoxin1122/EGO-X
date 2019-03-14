@@ -120,7 +120,7 @@ class mies(object):
         self._id_hyperpar = np.arange(self.dim, self._len)
 
         # initialize the populations
-        # Note: None type should not be assigned the position in individual vector
+        ################### Note: None type should not be assigned the position in individual vector
         if x0 is not None:                         # given x0
             individual0 = Individual(np.r_[x0, sigma0, eta0, [P0] * self.N_p])
             self.pop_mu = Individual([individual0]) * self.mu_

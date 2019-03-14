@@ -1,0 +1,7 @@
+Rank,Algorithm
+2.50000,EGO-ss
+3.29167,EGO-baseline
+3.33333,SMAC
+3.35417,EGO-ws
+3.91667,EGO-impute
+4.60417,Sklearn

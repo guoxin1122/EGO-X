@@ -1,0 +1,17 @@
+Unnamed: 0,3_389,4_772,adlt,bnk,ltr,mgic,p-blk,pim,s-gc,s-im,s-sh,sem,spam,tita
+EGO-ws,1,best,1,0,best,0,1,1,0,0,1,0,1,1
+EGO-ss,1,0,1,best,0,0,1,best,best,0,1,best,1,1
+EGO-impute,best,0,1,1,0,1,1,1,1,0,1,0,1,1
+EGO-baseline,0,0,1,0,0,0,1,1,0,0,1,1,1,1
+Sklearn,1,1,best,1,1,1,1,1,1,0,best,1,1,1
+RS,0,1,1,1,1,1,1,1,0,1,1,1,1,1
+Spearmint,1,1,1,1,1,0,1,0,0,1,1,1,1,0
+SMAC,0,1,1,1,0,1,1,0,0,1,1,0,1,1
+CMA,0,1,1,1,1,1,1,1,1,1,1,1,1,1
+GP-matern-noimpute,0,1,1,1,1,0,1,0,1,1,1,1,1,1
+GP-matern,0,1,1,1,0,1,0,0,0,0,1,0,1,0
+GP-cond,0,1,1,1,0,1,0,1,0,0,0,0,1,1
+GP-laplace,1,1,1,0,1,1,1,0,0,1,1,1,1,0
+GP-matern-ls,0,1,1,0,0,1,0,1,0,0,0,0,0,0
+GP-cond-ls,0,1,1,1,0,best,0,0,0,best,0,0,best,0
+GP-laplace-ls,0,1,1,0,0,1,best,1,0,0,0,1,0,best

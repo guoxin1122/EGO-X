@@ -1,0 +1,7 @@
+	1_46	2_184	3_389	4_772	5_917	6_1049	adlt	bnk	car	ches	ltr	mgic	msk	p-blk	pim	s-gc	s-im	s-pl	s-sh	sem	spam	thy	tita	wine
+EGO-ws	1	1	1	best	1	1	1	0	best	0	1	1	1	0	1	0	0	1	1	0	1	1	1	0
+EGO-ss	1	1	1	0	1	1	1	best	0	best	1	best	best	best	best	best	best	best	1	best	1	0	0	best
+EGO-impute	1	1	best	0	1	1	1	1	0	0	1	0	0	0	1	1	0	1	1	0	best	0	1	0
+SMAC	1	best	1	1	1	1	1	1	1	1	best	1	1	1	1	1	1	1	1	1	1	1	1	1
+EGO-baseline	1	1	0	0	1	1	1	0	0	1	1	1	1	0	1	0	0	1	1	1		best	best	0
+Sklearn	best	1	1	1	best	best	best	1	1	1	1	1	1	1	1	1	1	1	best	1	1	0	1	1
