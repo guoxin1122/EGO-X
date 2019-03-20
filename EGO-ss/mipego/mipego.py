@@ -773,8 +773,13 @@ class mipego(object):
         if self.n_point == 1: # sequential mode
             if self.infill == 'EI':
                 # generate acquisition function from respective surrogate
+                newplugin = None
                 for alg in self.alg_name:
-                    self.acquisition_func[alg] = EI(subsurrogate[alg], plugin, minimize=self.minimize)
+                    best_point = np.min(subsurrogate[alg].y)
+                    if newplugin == None or best_point < newplugin:
+                        newplugin = best_point
+                for alg in self.alg_name:
+                    self.acquisition_func[alg] = EI(subsurrogate[alg], newplugin, minimize=self.minimize)
                     self.acquisition_func[alg] = functools.partial(self.acquisition_func[alg], dx=dx)
 
             # if self.infill == 'EI':
